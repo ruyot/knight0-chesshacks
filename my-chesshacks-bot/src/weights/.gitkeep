@@ -1,0 +1,3 @@
+# This file ensures the weights directory is tracked by git
+# Place your model files (.onnx, .pt, .pth) in this directory
+

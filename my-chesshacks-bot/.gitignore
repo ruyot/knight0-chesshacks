@@ -1,0 +1,10 @@
+__pycache__
+.venv
+venv
+.env.local
+.env
+devtools
+knight0_architecture.md
+quickstart.md
+training_guide.md
+project_summary.md
